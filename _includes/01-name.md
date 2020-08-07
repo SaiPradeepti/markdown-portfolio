@@ -4,6 +4,6 @@
  - make commits
  - pull request
  - make commits if needed
- - deploy
  - merge
+ - delete branch
 - [x] markdown
